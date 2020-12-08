@@ -1,7 +1,7 @@
 intent('What does this app do?', 'What can I do here?', 
       reply('This is a news website. It provides the most recent headlines in mainstream media. You can ask me by saying Give me the latest news and You can also get the news for various topics ,catagories and wheather news for a location. I can also translate phrase from one language to other'));
 
-const API_KEY = '9eba9a9f0e1a4af6a4792e59c47e9f87';
+const API_KEY = 'Your api key';
 let savedArticles = [];
 
 // News by Source
